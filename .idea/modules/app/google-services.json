@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "1052672558449",
+    "firebase_url": "https://grosery3-b05d9.firebaseio.com",
+    "project_id": "grosery3-b05d9",
+    "storage_bucket": "grosery3-b05d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052672558449:android:7efc84c60bdc71a7fe22d0",
+        "android_client_info": {
+          "package_name": "asdasd.com.grosery3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052672558449-65aldfeqdv20lcbjasusqve4uhir3pvb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "asdasd.com.grosery3",
+            "certificate_hash": "a2371c462b95f472b319eb70e1467986d267f7f5"
+          }
+        },
+        {
+          "client_id": "1052672558449-g54k2461dfrhag2vih90qlm7s99l5n0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "asdasd.com.grosery3",
+            "certificate_hash": "8a0d8f055553bb816116a807e4e1afc53d16dd93"
+          }
+        },
+        {
+          "client_id": "1052672558449-au4b94g25ta5q2h88ldeeaaq1222k64a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_e821vHaMrYavqCvsS-bEa9UALOflN9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052672558449-au4b94g25ta5q2h88ldeeaaq1222k64a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Grosery3</string>
+    <string name="not_have_account_register">Not have account ? Register</string>
+    <string name="are_you_a_seller_register_as_seller">Are you a seller ? Register as Seller</string>
+
+    <string name="enable_gps">Enable Device\'s GPS</string>
+    <string name="permission_request">Location Permissions Required</string>
+    <string name="location_successfully_received">Location updates...</string>
+    <string name="title_permission_permanently_denied">Location Permission Permanently Denied</string>
+    <string name="message_permission_permanently_denied">The app will not work without providing location permission.
+
+ Open App settings -> Permissions -> Allow permission.</string>
+    <string name="title_permission_denied">Location Permission Denied</string>
+    <string name="message_permission_denied">The app will not work without providing location permission. Allow permission?</string>
+    <string name="settings">Settings</string>
+    <string name="not_now">Not now</string>
+    <string name="cancel">Cancel</string>
+    <string name="allow">Allow</string>
+</resources>
